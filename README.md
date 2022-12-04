@@ -1,5 +1,5 @@
 ### Hello there 👋
-My name is Carlos Ferrer and I'm a brazilian fullstack web developer 
+My name is <strong>Carlos Ferrer</strong> and I'm a brazilian <strong>fullstack web developer</strong> 
 
 <div align="center">
   <a href="https://github.com/carlosferrerdev">
