@@ -1,5 +1,10 @@
-### Hello there. 👋 I'm a brazilian fullstack web developer graduate in Analysis and Systems Development
+### Hello there. 👋 
 
+<p>My name is <strong>Carlos Ferrer</strong> and I'm a brazilian <strong>fullstack web developer</strong>.</p>
+<p>Graduated in Systems Analysis and Development from Estácio de Sá University - São Paulo/Brazil. Also graduated in Le Wagon Web Development Bootcamp and a musician.</p>
+
+
+##
 <div align="center">
   <a href="https://github.com/carlosferrerdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosferrerdev&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
