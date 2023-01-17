@@ -4,6 +4,11 @@
 <p>Graduated in Systems Analysis and Development from Estácio de Sá University - São Paulo/Brazil. Also graduated in Le Wagon Web Development Bootcamp.</p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosferrerdev&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosferrerdev&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/carlosferrerdev/github-readme-stats)
+
+
+
 ##
 
  <div style="display: inline_block"><br>
@@ -15,6 +20,8 @@
   <img align="center" alt="Ferrer-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Ferrer-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
+
+
 
   ##
   <div> 
