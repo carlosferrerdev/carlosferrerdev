@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Ferrer</h1>
 <h3 align="center">A passionate fullstack web developer from Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosferrerdev&label=Profile%20views&color=0e75b6&style=flat" alt="carlosferrerdev" /> </p>
 
@@ -17,10 +18,6 @@
 
 - ⚡ Fun fact **I'm a Lawyer and a Musician too**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ferrercarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferrercarlos" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
