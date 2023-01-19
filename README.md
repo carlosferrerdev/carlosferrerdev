@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosferrerdev&label=Profile%20views&color=0e75b6&style=flat" alt="carlosferrerdev" /> </p>
 
-- 🔭 I’m currently working on [fpost](https://github.com/carlosferrerdev/fpost)
-
-- 🌱 I’m currently learning **iOS/Swift**
+- 🌱 I’m currently working/learning **iOS/Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlosferrerdev](https://github.com/carlosferrerdev)
 
