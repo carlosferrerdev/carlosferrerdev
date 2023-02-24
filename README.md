@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosferrerdev&label=Profile%20views&color=0e75b6&style=flat" alt="carlosferrerdev" /> </p>
 
-- 🌱 I’m currently working/learning **Ruby on Rails**
+- 🌱 I’m currently working/learning **iOS/Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlosferrerdev](https://github.com/carlosferrerdev)
 
@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **carlosvferrer@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/carlosferrerdev](https://github.com/carlosferrerdev)
+- 📄 Know about my experiences [https://carlosferrer.online(https://carlosferrer.online)
 
-- ⚡ Fun fact **I'm a Lawyer and a Musician too!**
+- ⚡ Fun fact **I'm a Lawyer and a Musician** too!
 
 
 <h3 align="left">Languages and Tools:</h3>
