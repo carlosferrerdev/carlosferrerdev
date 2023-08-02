@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlosferrerdev](https://github.com/carlosferrerdev)
 
-- 💬 Ask me about **Ruby/Rails**
+- 💬 Ask me about **code**
 
 - 📫 How to reach me **carlosvferrer@gmail.com**
 
