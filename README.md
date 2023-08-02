@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosferrerdev&label=Profile%20views&color=0e75b6&style=flat" alt="carlosferrerdev" /> </p>
 
-- 🌱 I’m currently working/learning **Ruby on Rails**
+- 🌱 I’m currently working/learning **.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlosferrerdev](https://github.com/carlosferrerdev)
 
