@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://carlosferrer.online](https://carlosferrer.online)
 
-- ⚡ Fun fact **I'm a Lawyer and a Musician** too!
+- ⚡ Fun fact **I'm a Musician** too!
 
 
 <h3 align="left">Languages and Tools:</h3>
