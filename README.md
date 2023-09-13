@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Ferrer</h1>
+<h1 align="center">Hello 👋, I'm Carlos Ferrer</h1>
 <h3 align="center">A passionate fullstack web developer from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-3.gif">
 
