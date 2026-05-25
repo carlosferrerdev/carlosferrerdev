@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Carlos Ferrer</h1>
-<h3 align="center">Um desenvolvedor web fullstack apaixonado, do Brasil.</h3>
+<h1 align="center">Olá, eu sou Carlos Ferrer 👋</h1>
+<h3 align="center">Um desenvolvedor web fullstack apaixonado do Brasil.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosferrerdev&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="carlosferrerdev" /> </p>
@@ -14,7 +14,7 @@
 
 - 📄 Conheça minhas experiências em [https://carlosferrer.online](https://carlosferrer.online)
 
-- ⚡ Curiosidade: **Também sou Músico**!
+- ⚡ Curiosidade: **Também sou músico e advogado**!
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
